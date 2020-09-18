@@ -1,4 +1,4 @@
 {
-  "issuer":"https://pedro-roaster.netlify.app/",
-  "jwks_uri":"https://pedro-roaster.netlify.app/.well-known/jwks.json"
+  "issuer":"https://pedro-jwt.netlify.app/",
+  "jwks_uri":"https://pedro-jwt.netlify.app/.well-known/jwks.json"
 }

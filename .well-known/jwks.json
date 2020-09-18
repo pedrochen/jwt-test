@@ -4,7 +4,7 @@
       "alg": "RS256", 
       "kty": "RSA",
       "use": "sig",
-      "kid": "myrenta-jwt-key",
+      "kid": "pedro-jwt-key",
       "x5c": [ "MIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAlyZAPfcPgRvFtLN4CyFVES1CB9T7cQhbHnb8CkX/ylBF5Q1P3+2/LlN0rUsTgvOFIdvox4XOw/uqijohDYUETO9COLIcFHY+JN+Wb+ssN2HFrmliWGiMNLLxxUA8xQNovzb/65uCU9lZ1U3HGwSIDlvGYM+PW7s/qcD3TkgHbinjQ6Xx+7fADYs9QPHrftzmVEyeG1LF2VgALZHBd316Qg+/g1PmkXuTLzoOrSah75Mkuk2ibpShZoPoIpQKwXpOaE3f07i/h5u4Cw0RGQTVFYYhyEvJE9wa8kNDvZ8lsOCssLq41o0IntKaqaqa+kgT1/JvLgQ1jBE7aGzdLbIFKrGauxVwnAe7wZD13AlvrWsb2yfS3j0mHRtk/i4gAF/Q5MWtScN8vmrL4xGFYEdRpcvfsn3trELyy+fahKiZCK87GkYL8xCz1RM5e2PgOvuHsvbNxCk5WiW9NNnuD/wZYLMugqq18ENNPMGZv6nh5pm3wy5ouC0oXA6OvZfGfp7nMrVZ9QHagYwIkjB2tyis4VUFZhPJXAtqU7gvvHHx2jW9W8/94TqKUMiKlZyC7emmdRnbl2/tgvEQ+lvMWDjWnrECC2/QNsJ8au2bbc/T80mkfjrfgw3xuW94t/b2aBy18ebaxageg3BhsWkE3HADPGcGJ/q3C54EeNj7Jg3eNhUCAwEAAQ=="]
     }
   ]
